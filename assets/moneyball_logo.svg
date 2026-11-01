@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 60" width="420" height="60">
+  <defs>
+    <style>
+      .title { font-family: 'Barlow Semi Condensed', 'Arial Black', sans-serif; font-weight: 800; font-size: 29px; letter-spacing: 0.32em; fill: #f6f3e6; text-anchor: middle; }
+      .bar { stroke: #c9a227; stroke-width: 2.2; }
+    </style>
+  </defs>
+  <line x1="12" y1="6" x2="408" y2="6" class="bar"/>
+  <text x="210" y="42" class="title">MONEYBALL</text>
+  <line x1="12" y1="54" x2="408" y2="54" class="bar"/>
+</svg>
